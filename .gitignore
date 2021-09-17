@@ -1,0 +1,7 @@
+alpine/
+txData/
+fx.tar.xz
+/server-data/cache/
+/server-data/db/
+*/essentialmode.db
+*/[Default]/
